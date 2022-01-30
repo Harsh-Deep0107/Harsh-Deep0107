@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harsh-Deep0107
-- 🌱 I’m currently learning Android
+- 👋 Hi, I’m Harsh Deep Singh (@Harsh-Deep0107), pursuing Master's in Computer Application.
+- 🌱 Currently working on Python, JAVA
 - 📫 Reach me at harshdeep0107@gmail.com
 
 <!---
